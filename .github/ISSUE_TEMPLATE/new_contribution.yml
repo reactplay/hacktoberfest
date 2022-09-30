@@ -1,0 +1,91 @@
+name: New Contribution
+description: Submitting a new low/no code contribution to ReactPlay
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank-you for contributing to ReactPlay in this Hacktoberfest. We appriciate your contribution. Please help us to understand what did you do:
+  - type: input
+    id: name
+    attributes:
+      label: Contributor's Name
+      description: Your Name
+      placeholder: ex. John Doe
+    validations:
+      required: true
+  - type: input
+    id: username
+    attributes:
+      label: GitHub Username
+      description: The username you are using right now
+      placeholder: ex. cool-john-doe
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Explain what you did. Please be specific.
+      placeholder: I wrote a cool blog.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Contribution Category
+      description: Was it a low-code or no-code?
+      options:
+        - low-code
+        - no-code
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: What was it about?
+      options:
+        - design
+        - writing
+        - advocacy
+    validations:
+      required: true
+  - type: dropdown
+    id: contribution
+    attributes:
+      label: Select the exact contribution you did
+      multiple: true
+      description: If your contribution is not listed, contact @atapas or @joshi-kaushal
+      options:
+        - docs
+        - translating
+        - copy-editing
+        - testing
+        - UX-testing
+        - design
+        - video
+        - talks
+        - presentations
+        - workshops
+        - case-studies
+        - thread
+        - podcasts
+        - blogs
+  - type: input
+    id: link
+    attributes:
+      label: Link to your Contribution
+      description: Link to your blog/video/paper/etc
+      placeholder: https://reactplay.io/
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "If you are unable to provide links, attach photos, or any proof so we can understand."
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: This contribution is made by me and I am not copying/plagiarizing/misusing anyone else's content.
+      options:
+        - label: I agree to the above statement
+          required: true
