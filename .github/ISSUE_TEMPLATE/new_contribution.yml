@@ -1,7 +1,5 @@
 name: New Contribution
 description: Submitting a new low/no code contribution to ReactPlay
-title: "[NEW]: "
-labels: ["new"]
 body:
   - type: markdown
     attributes:
