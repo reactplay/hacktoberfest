@@ -28,7 +28,7 @@ The valid contributions will be merged to the repository with `hacktoberfest-acc
 
 ## What Are Valid Contributions
 
-Anything that you have done that helps the ReactPlay community to grow, and improve in either low-code or no-code categories will be considered as a valid contribution. You need to provide detailed informaton about the contribution along with a URL that validates your contribution.
+Anything that you have done that helps the ReactPlay community to grow, and improve in either low-code or no-code categories will be considered as a valid contribution. You need to provide detailed information about the contribution along with a URL that validates your contribution.
 
 ## How to Submit Your Contribution
 
@@ -61,7 +61,7 @@ Anything that you have done that helps the ReactPlay community to grow, and impr
      }
    }
    ```
-8. Once you are finished, commmit your changes.
+8. Once you are finished, commit your changes.
 
    ![commit](https://user-images.githubusercontent.com/53049546/193394645-6f83839e-659c-4626-9e16-199a04c06105.png)
 
@@ -69,7 +69,7 @@ Anything that you have done that helps the ReactPlay community to grow, and impr
 
    ![image](https://user-images.githubusercontent.com/53049546/193394767-199612ee-416c-40fd-89b9-4516797d3902.png)
 
-10. If the above step doesn't work, go to `Pull Request` section and createa a new request.
+10. If the above step doesn't work, go to `Pull Request` section and create a a new request.
 11. Select the `main` branch of `reactplay/hacktoberfest` repository, and solve merge conflicts if any.
 12. Wait until someone from our team approves it.
 
