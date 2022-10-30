@@ -26,6 +26,15 @@
     "description": "I wrote on blog post on Form Validation in React",
     "link": "https://blog.reactplay.io/form-validation-in-react-using-formik"
   },
+  "Amyx000": {
+    "name": "Arman Kazi",
+    "username": "Amyx000",
+    "category": "no-code",
+    "type": "advocacy",
+    "contribution": "blogs",
+    "description": "This is React Resume Builder created during Hack-R-Play Hackathon using this developer can fill their details and get their resume ready in few seconds.",
+    "link": "https://blog.reactplay.io/react-resume-builder-with-react-and-nhost"
+},
   "ammaaraslam": {
     "name": "Ammaar Aslam",
     "username": "ammaaraslam",
