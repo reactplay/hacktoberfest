@@ -34,5 +34,14 @@
     "contribution": "blogs",
     "description": "Wrote a blog on blog.reactplay.io about my HACK-R-PLAY submission, WriteOnce.",
     "link": "https://blog.reactplay.io/introducing-writeonce-a-markdown-editor-for-devs-who-blog"
+  },
+   "utsavbhattarai007": {
+    "name": "Utsav bhattarai",
+    "username": "utsavbhattarai007",
+    "category": "no-code",
+    "type": "advocacy",
+    "contribution": "blogs",
+    "description": "I wrote on blog post on the web app which click the high quality screenshot.",
+    "link": "https://blog.reactplay.io/introducing-shotz-a-high-quality-screen-clicker"
   }
 }
