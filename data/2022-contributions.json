@@ -16,5 +16,14 @@
     "contribution": "blogs",
     "description": "FinSaver is a web application that helps track your income and expenses. It's developed using the mobile-first approach of responsive design to provide a smooth experience on all kinds of devices. I have built this application for Hack-R-Play hackathon.",
     "link": "https://blog.reactplay.io/building-finsaver-for-hack-r-play"
+  },
+  "Amyx000": {
+    "name": "Arman Kazi",
+    "username": "Amyx000",
+    "category": "no-code",
+    "type": "advocacy",
+    "contribution": "blogs",
+    "description": "This is React Resume Builder created during Hack-R-Play Hackathon using this developer can fill their details and get their resume ready in few seconds.",
+    "link": "https://blog.reactplay.io/react-resume-builder-with-react-and-nhost"
   }
 }
