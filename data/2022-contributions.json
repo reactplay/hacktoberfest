@@ -20,8 +20,8 @@
   "daryllukas": {
     "name": "Daryl Lukas",
     "username": "daryllukas",
-    "category": "low-code",
-    "type": "writing",
+    "category": "no-code",
+    "type": "advocacy",
     "contribution": "blogs",
     "description": "I wrote on blog post on Form Validation in React",
     "link": "https://blog.reactplay.io/form-validation-in-react-using-formik"
