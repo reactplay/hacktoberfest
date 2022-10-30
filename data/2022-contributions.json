@@ -25,5 +25,15 @@
     "contribution": "blogs",
     "description": "I wrote on blog post on Form Validation in React",
     "link": "https://blog.reactplay.io/form-validation-in-react-using-formik"
-  }
+  },
+   "utsavbhattarai007": {
+    "name": "Utsav bhattarai",
+    "username": "utsavbhattarai007",
+    "category": "no-code",
+    "type": "advocacy",
+    "contribution": "blogs",
+    "description": "I wrote on blog post on the web app which click the high quality screenshot.",
+    "link": "https://blog.reactplay.io/introducing-shotz-a-high-quality-screen-clicker"
+  },
+  
 }
