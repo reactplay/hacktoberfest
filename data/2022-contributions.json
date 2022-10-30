@@ -26,6 +26,15 @@
     "description": "I wrote on blog post on Form Validation in React",
     "link": "https://blog.reactplay.io/form-validation-in-react-using-formik"
   },
+  "aashishpanthi": {
+    "name": "Aashish Panthi",
+    "username": "aashishpanthi",
+    "category": "no-code",
+    "type": "advocacy",
+    "contribution": "blogs",
+    "description": "I wrote a blog explaining about the recent project I built using React and Nhost. It is a email status finder.",
+    "link": "https://blog.reactplay.io/mailsbe-an-email-status-finder"
+  },
   "Amyx000": {
     "name": "Arman Kazi",
     "username": "Amyx000",
@@ -34,7 +43,7 @@
     "contribution": "blogs",
     "description": "This is React Resume Builder created during Hack-R-Play Hackathon using this developer can fill their details and get their resume ready in few seconds.",
     "link": "https://blog.reactplay.io/react-resume-builder-with-react-and-nhost"
-},
+  },
   "ammaaraslam": {
     "name": "Ammaar Aslam",
     "username": "ammaaraslam",
@@ -44,7 +53,7 @@
     "description": "Wrote a blog on blog.reactplay.io about my HACK-R-PLAY submission, WriteOnce.",
     "link": "https://blog.reactplay.io/introducing-writeonce-a-markdown-editor-for-devs-who-blog"
   },
-   "utsavbhattarai007": {
+  "utsavbhattarai007": {
     "name": "Utsav bhattarai",
     "username": "utsavbhattarai007",
     "category": "no-code",
