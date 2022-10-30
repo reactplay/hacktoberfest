@@ -25,5 +25,15 @@
     "contribution": "blogs",
     "description": "I wrote on blog post on Form Validation in React",
     "link": "https://blog.reactplay.io/form-validation-in-react-using-formik"
+  },
+  "aashishpanthi": {
+    "name": "Aashish Panthi",
+    "username": "aashishpanthi",
+    "category": "no-code",
+    "type": "advocacy",
+    "contribution": "blogs",
+    "description": "I wrote a blog explaining about the recent project I built using React and Nhost. It is a email status finder.",
+    "link": "https://blog.reactplay.io/mailsbe-an-email-status-finder"
   }
+}
 }
