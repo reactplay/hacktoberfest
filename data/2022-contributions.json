@@ -34,6 +34,32 @@
     "contribution": "blogs",
     "description": "I wrote a blog explaining about the recent project I built using React and Nhost. It is a email status finder.",
     "link": "https://blog.reactplay.io/mailsbe-an-email-status-finder"
+  },
+  "Amyx000": {
+    "name": "Arman Kazi",
+    "username": "Amyx000",
+    "category": "no-code",
+    "type": "advocacy",
+    "contribution": "blogs",
+    "description": "This is React Resume Builder created during Hack-R-Play Hackathon using this developer can fill their details and get their resume ready in few seconds.",
+    "link": "https://blog.reactplay.io/react-resume-builder-with-react-and-nhost"
+  },
+  "ammaaraslam": {
+    "name": "Ammaar Aslam",
+    "username": "ammaaraslam",
+    "category": "no-code",
+    "type": "writing",
+    "contribution": "blogs",
+    "description": "Wrote a blog on blog.reactplay.io about my HACK-R-PLAY submission, WriteOnce.",
+    "link": "https://blog.reactplay.io/introducing-writeonce-a-markdown-editor-for-devs-who-blog"
+  },
+  "utsavbhattarai007": {
+    "name": "Utsav bhattarai",
+    "username": "utsavbhattarai007",
+    "category": "no-code",
+    "type": "advocacy",
+    "contribution": "blogs",
+    "description": "I wrote on blog post on the web app which click the high quality screenshot.",
+    "link": "https://blog.reactplay.io/introducing-shotz-a-high-quality-screen-clicker"
   }
-}
 }
