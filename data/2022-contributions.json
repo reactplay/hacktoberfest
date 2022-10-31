@@ -81,5 +81,16 @@
     "description": "I co-hosted an online event with Tapas Adhikary on Aviyel. I talked about ReactPlay community, blogging and hacktobefest contribution.",
     "link": "https://aviyel.com/events/468/closer-look-at-reactplay-with-tapas-adhikary"
   }
+},
+{
+  "username": {
+    "name": "Senali",
+    "username": "senali-d",
+    "category": "no-code",
+    "type": "writing",
+    "contribution": "blog",
+    "description": "I wrote a blog post about my Hack-R-Play project.",
+    "link": "https://sen-d.hashnode.dev/mini-encyclopedia-site"
+  }
 }
 }
