@@ -112,5 +112,16 @@
     "description": "I wrote a blog post about my Hack-R-Play project.",
     "link": "https://sen-d.hashnode.dev/mini-encyclopedia-site"
   }
+},
+{
+  "username": {
+    "name": "Funke",
+    "username": "Roxie-32",
+    "category": "no-code",
+    "type": "writing",
+    "contribution": "blog",
+    "description": "I wrote a blog post about How Open Source has Benefited my Journey.",
+    "link": "https://aviyel.com/post/3868/how-has-open-source-benefited-you-in-your-journey"
+  }
 }
 }
