@@ -61,5 +61,16 @@
     "contribution": "blogs",
     "description": "I wrote on blog post on the web app which click the high quality screenshot.",
     "link": "https://blog.reactplay.io/introducing-shotz-a-high-quality-screen-clicker"
+  },
+  {
+  "username": {
+    "name": "Kaushal Joshi",
+    "username": "joshi-kaushal",
+    "category": "no-code",
+    "type": "advocacy",
+    "contribution": "talks",
+    "description": "I co-hosted an online event with Tapas Adhikary on Aviyel. I talked about ReactPlay community, blogging and hacktobefest contribution.",
+    "link": "https://aviyel.com/events/468/closer-look-at-reactplay-with-tapas-adhikary"
   }
+}
 }
