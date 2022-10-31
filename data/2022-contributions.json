@@ -17,15 +17,35 @@
     "description": "FinSaver is a web application that helps track your income and expenses. It's developed using the mobile-first approach of responsive design to provide a smooth experience on all kinds of devices. I have built this application for Hack-R-Play hackathon.",
     "link": "https://blog.reactplay.io/building-finsaver-for-hack-r-play"
   },
-  "daryllukas": {
-    "name": "Daryl Lukas",
-    "username": "daryllukas",
-    "category": "no-code",
-    "type": "advocacy",
-    "contribution": "blogs",
-    "description": "I wrote on blog post on Form Validation in React",
-    "link": "https://blog.reactplay.io/form-validation-in-react-using-formik"
-  },
+  "daryllukas": [
+    {
+      "name": "Daryl Lukas",
+      "username": "daryllukas",
+      "category": "no-code",
+      "type": "advocacy",
+      "contribution": "blogs",
+      "description": "I wrote on blog post on Form Validation in React",
+      "link": "https://blog.reactplay.io/form-validation-in-react-using-formik"
+    },
+    {
+      "name": "Daryl Lukas",
+      "username": "daryllukas",
+      "category": "no-code",
+      "type": "advocacy",
+      "contribution": "blogs",
+      "description": "I wrote on blog post on Error Boundaries in React",
+      "link": "https://hashnode.com/draft/635be79a93b35e2fb5d817a7"
+    },
+    {
+      "name": "Daryl Lukas",
+      "username": "daryllukas",
+      "category": "no-code",
+      "type": "advocacy",
+      "contribution": "blogs",
+      "description": "I wrote on blog post on automatically assigning keys to Lists in React",
+      "link": "https://hashnode.com/draft/635be9e793b35e2fb5d817db"
+    }
+  ],
   "aashishpanthi": {
     "name": "Aashish Panthi",
     "username": "aashishpanthi",
