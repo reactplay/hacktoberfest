@@ -62,6 +62,15 @@
     "description": "I wrote on blog post on the web app which click the high quality screenshot.",
     "link": "https://blog.reactplay.io/introducing-shotz-a-high-quality-screen-clicker"
   },
+  "GeekyChakri": {
+    "name": "Chakri",
+    "username": "GeekyChakri",
+    "category": "no-code",
+    "type": "advocacy",
+    "contribution": "blogs",
+    "description": "I wrote a post on ReactPlay's blog about my Hack-R-Play project.",
+    "link": "https://blog.reactplay.io/introducing-classroom-learning-with-youtube-made-exciting",
+  },
   {
   "username": {
     "name": "Kaushal Joshi",
